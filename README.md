@@ -1,2 +1,2 @@
 # TestRepo
-creating TestRepo for demo use
+used in september of 1988 fall semester.
